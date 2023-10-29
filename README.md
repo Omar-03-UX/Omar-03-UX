@@ -3,7 +3,7 @@
 <h2>👨‍💻 Network Security/Networking Projects:</h2>
 
 - [Active Directory Home lab ](https://github.com/Omar-03-UX/Active-Directory-)
-- [Palo Alto Source NAT ](https://github.com/joshmadakor1/Algorithms-Practice)
+- [Palo Alto Source NAT ](https://github.com/Omar-03-UX/Palo-Alto-Source-NAT-)
 
   <h2> certifications</h2> 
  - [CCNA](https://www.youtube.com/watch?v=a83ASGn_V_s)
