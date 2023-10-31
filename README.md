@@ -6,6 +6,7 @@
 - [Palo Alto Source NAT ](https://github.com/Omar-03-UX/Palo-Alto-Source-NAT-)
 - [Fortinet Destination NAT](https://github.com/Omar-03-UX/Palo-Alto-Source-NAT-)
 - [CCNA Super Lab ](https://github.com/Omar-03-UX/CCNA-Super-Lab)
+- [IPSEC Between Palo Alto and Fortinet](https://github.com/Omar-03-UX/CCNA-Super-Lab)
 
   <h2> certifications</h2> 
  - [CCNA](https://www.youtube.com/watch?v=a83ASGn_V_s)
