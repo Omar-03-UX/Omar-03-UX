@@ -1,4 +1,4 @@
-<h1>Hi, I'm Omar! <br/><a href="https://github.com/Omar-03-UX"> Aspiring Cyber Security Professional</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Network Security Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Omar! <br/><a href="https://github.com/Omar-03-UX"> Aspiring Cyber Security Professional</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Network Security Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">Freelancer</a></h1>
 
 <h2>👨‍💻 Network Security/Networking Projects:</h2>
 
