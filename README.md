@@ -11,7 +11,7 @@
 - [TCPDUMP](https://github.com/Omar-03-UX/TCP-dump-)
 - [University Campus](https://github.com/Omar-03-UX/University-Campus-)
 - [Hotel Design](https://github.com/Omar-03-UX/Hotel-Network-Design)
-- [Company business Design ](https://github.com/Omar-03-UX/Company-Business-System-Network-Design)
+- [Company Business Design ](https://github.com/Omar-03-UX/Company-Business-System-Network-Design)
   <h2> certifications</h2> 
  - [CCNA](https://www.youtube.com/watch?v=a83ASGn_V_s)
  - [Fortinet NSE 4](https://www.youtube.com/watch?v=a83ASGn_V_s)
