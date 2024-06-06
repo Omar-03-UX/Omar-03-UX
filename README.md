@@ -20,7 +20,8 @@
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="OmarObsiye | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[(https://www.linkedin.com/in/omar-o-794ba4120/)
+
+[linkedin]: https://linkedin.com/in/omar-o-794ba4120/
 
 <!--
 **Omar-03-UX/Omar-03-UX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
