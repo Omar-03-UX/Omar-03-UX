@@ -15,7 +15,7 @@
   <h2> certifications</h2> 
  - [CCNA](https://www.youtube.com/watch?v=a83ASGn_V_s)
  - [Fortinet NSE 4](https://www.youtube.com/watch?v=a83ASGn_V_s)
- - [Palo Alto PCNSE](https://www.youtube.com/watch?v=a83ASGn_V_s)
+ 
    
    
 
@@ -29,7 +29,6 @@
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="OmarObsiye | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[youtube]: https://www.youtube.com/c/joshmadakor
 [linkedin]: https://linkedin.com/in/omar-o-794ba4120/
 
 <!--
