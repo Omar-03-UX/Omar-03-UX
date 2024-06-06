@@ -12,15 +12,7 @@
 - [University Campus](https://github.com/Omar-03-UX/University-Campus-)
 - [Hotel Design](https://github.com/Omar-03-UX/Hotel-Network-Design)
 - [Company Business Design ](https://github.com/Omar-03-UX/Company-Business-System-Network-Design)
-  <h2> certifications</h2> 
- - [CCNA]
- - [Fortinet NSE 4]
  
-   
-   
-
-    
-
   
 <h2> 🤳 Connect with me:</h2>
 
