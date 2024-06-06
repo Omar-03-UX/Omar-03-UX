@@ -20,7 +20,6 @@
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="OmarObsiye | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
 [LinkedIn Profile](https://www.linkedin.com/in/omar-o-794ba4120/)
 
 <!--
