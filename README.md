@@ -12,14 +12,16 @@
 - [University Campus](https://github.com/Omar-03-UX/University-Campus-)
 - [Hotel Design](https://github.com/Omar-03-UX/Hotel-Network-Design)
 - [Company Business Design ](https://github.com/Omar-03-UX/Company-Business-System-Network-Design)
- 
+
+## Certifications
+- [CCNA](https://cp.certmetrics.com/cisco/en/credentials/status/11395643)
+- [NSE4 Fortinet](https://training.fortinet.com/mod/customcert/view.php?id=2187)
   
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="OmarObsiye | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: https://linkedin.com/in/omar-o-794ba4120/
+[LinkedIn Profile](https://www.linkedin.com/in/omar-o-794ba4120/)
 
 <!--
 **Omar-03-UX/Omar-03-UX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
