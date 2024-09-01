@@ -7,7 +7,6 @@
 - [Fortinet Destination NAT](https://github.com/Omar-03-UX/Palo-Alto-Source-NAT-)
 - [CCNA Super Lab ](https://github.com/Omar-03-UX/CCNA-Super-Lab)
 - [IPSEC Between Palo Alto and Fortinet](https://github.com/Omar-03-UX/IPSEC-Configuration-)
-- [VLANS](https://github.com/Omar-03-UX/VLANS-)
 - [TCPDUMP](https://github.com/Omar-03-UX/TCP-dump-)
 - [University Campus](https://github.com/Omar-03-UX/University-Campus-)
 - [Hotel Design](https://github.com/Omar-03-UX/Hotel-Network-Design)
