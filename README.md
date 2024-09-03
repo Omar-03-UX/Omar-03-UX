@@ -11,6 +11,7 @@
 - [University Campus](https://github.com/Omar-03-UX/University-Campus-)
 - [Hotel Design](https://github.com/Omar-03-UX/Hotel-Network-Design)
 - [Company Business Design ](https://github.com/Omar-03-UX/Company-Business-System-Network-Design)
+- [Static Route Palo Alto ](https://github.com/Omar-03-UX/-Static-route-Palo-Alto)
 
 ## Certifications
 - [CCNA](https://cp.certmetrics.com/cisco/en/credentials/status/11395643)
