@@ -4,7 +4,7 @@
 
 - [Active Directory Home lab ](https://github.com/Omar-03-UX/Active-Directory-)
 - [Palo Alto Source NAT ](https://github.com/Omar-03-UX/Palo-Alto-Source-NAT-)
-- [Fortinet Destination NAT](https://github.com/Omar-03-UX/Palo-Alto-Source-NAT-)
+- [Fortinet Destination NAT](https://github.com/Omar-03-UX/Fortinet-Destination-NAT-)
 - [CCNA Super Lab ](https://github.com/Omar-03-UX/CCNA-Super-Lab)
 - [IPSEC Between Palo Alto and Fortinet](https://github.com/Omar-03-UX/IPSEC-Configuration-)
 - [TCPDUMP](https://github.com/Omar-03-UX/TCP-dump-)
