@@ -14,6 +14,7 @@
 - [Static Route Palo Alto ](https://github.com/Omar-03-UX/-Static-route-Palo-Alto)
 - [OSPF Palo Alto ](https://github.com/Omar-03-UX/OSPF-Palo-Alto)
 - [Default route ](https://github.com/Omar-03-UX/Default-route-Palo-Alto)
+- [DHCP](https://github.com/Omar-03-UX/DHCP-Lab)
 
 ## Certifications
 - [CCNA](https://cp.certmetrics.com/cisco/en/credentials/status/11395643)
