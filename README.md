@@ -15,7 +15,7 @@
 - [OSPF Palo Alto ](https://github.com/Omar-03-UX/OSPF-Palo-Alto)
 - [Default route ](https://github.com/Omar-03-UX/Default-route-Palo-Alto)
 - [DHCP](https://github.com/Omar-03-UX/DHCP-Lab)
-- [High Availability]([DHCP](https://github.com/Omar-03-UX/DHCP-Lab))
+- [High Availability](https://github.com/Omar-03-UX/High-Availability)
 
 ## Certifications
 - [CCNA](https://cp.certmetrics.com/cisco/en/credentials/status/11395643)
