@@ -16,7 +16,7 @@
 - [Default route ](https://github.com/Omar-03-UX/Default-route-Palo-Alto)
 - [DHCP](https://github.com/Omar-03-UX/DHCP-Lab)
 - [High Availability](https://github.com/Omar-03-UX/High-Availability)
-
+- [High Availability](https://github.com/Omar-03-UX/High-Availability)
 ## Certifications
 - [CCNA](https://cp.certmetrics.com/cisco/en/credentials/status/11395643)
 - [NSE4 Fortinet](https://training.fortinet.com/mod/customcert/view.php?id=2187)
