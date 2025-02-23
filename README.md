@@ -31,8 +31,8 @@ z<h1>Hi, I'm Omar! <br/><a href="https://github.com/Omar-03-UX"> Aspiring Cyber 
 
 - [Inter VLAN Routing](https://www.youtube.com/watch?v=hjfQxRtueAY) 
 - [Destination NAT](https://www.youtube.com/watch?v=2V7Lc8-u0Yw)
-- [DHCP Configuration)](https://www.youtube.com/watch?v=kWq5ZYw9mSo)
-- [NAT Configuration)](https://www.youtube.com/watch?v=C6OWVqds3yU)
+- [DHCP Configuration](https://www.youtube.com/watch?v=kWq5ZYw9mSo)
+- [NAT Configuration](https://www.youtube.com/watch?v=C6OWVqds3yU)
 - [Source NAT Palo Alto](https://www.youtube.com/watch?v=NH1tamHfwac)
 - [Source NAT Palo Alto Part 2](https://www.youtube.com/watch?v=CGW2SQ0DBGc)
 
