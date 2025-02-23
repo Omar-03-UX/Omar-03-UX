@@ -1,4 +1,4 @@
-<h1>Hi, I'm Omar! <br/><a href="https://github.com/Omar-03-UX"> Aspiring Cyber Security Professional</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Network Security Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">Freelancer</a></h1>
+z<h1>Hi, I'm Omar! <br/><a href="https://github.com/Omar-03-UX"> Aspiring Cyber Security Professional</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Network Security Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">Freelancer</a></h1>
 
 <h2>👨‍💻 Network Security/Networking Projects:</h2>
 
@@ -26,6 +26,15 @@
 [<img align="left" alt="OmarObsiye | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://linkedin.com/in/omar-o-794ba4120/
+
+<h2>📺 Popular YouTube Videos</h2>
+
+- [Inter VLAN Routing](https://www.youtube.com/watch?v=hjfQxRtueAY) 
+- [Destination NAT](https://www.youtube.com/watch?v=2V7Lc8-u0Yw)
+- [DHCP Configuration)](https://www.youtube.com/watch?v=kWq5ZYw9mSo)
+- [NAT Configuration)](https://www.youtube.com/watch?v=C6OWVqds3yU)
+- [Source NAT Palo Alto](https://www.youtube.com/watch?v=NH1tamHfwac)
+- [Source NAT Palo Alto Part 2](https://www.youtube.com/watch?v=CGW2SQ0DBGc)
 
 <!--
 **Omar-03-UX/Omar-03-UX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
