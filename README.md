@@ -20,8 +20,8 @@
 
 <h2>👨‍💻CyberSecurity Projects:</h2>
 
-[TCPDump](https://github.com/Omar-03-UX/TCPDUMP-Challenge)
-[AD](https://github.com/Omar-03-UX/Active-Directory-and-Splunk)
+- [TCPDump](https://github.com/Omar-03-UX/TCPDUMP-Challenge)
+- [AD](https://github.com/Omar-03-UX/Active-Directory-and-Splunk)
 
  
 ## Certifications
