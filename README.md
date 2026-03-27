@@ -21,8 +21,7 @@
 <h2>👨‍💻CyberSecurity Projects:</h2>
 
 - [TCPDump](https://github.com/Omar-03-UX/TCPDUMP-Challenge)
-- [Actice Directory](https://github.com/Omar-03-UX/Active-Directory-and-Splunk)
-
+- [Actice Directory/Splunk](https://github.com/Omar-03-UX/Active-Directory-and-Splunk)
  
 ## Certifications
 - [CCNA](https://cp.certmetrics.com/cisco/en/credentials/status/11395643)
