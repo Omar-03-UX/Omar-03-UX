@@ -12,8 +12,6 @@
 - [Company Business Design ](https://github.com/Omar-03-UX/Company-Business-System-Network-Design)
 - [Static Route Palo Alto ](https://github.com/Omar-03-UX/-Static-route-Palo-Alto)
 - [OSPF Palo Alto ](https://github.com/Omar-03-UX/OSPF-Palo-Alto)
-- [Default route ](https://github.com/Omar-03-UX/Default-route-Palo-Alto)
-- [Global Protect VPN](https://github.com/Omar-03-UX/Global-Protect-VPN)
 - [Splunk](https://github.com/Omar-03-UX/Splunk )
 - [Wireshark](https://github.com/Omar-03-UX/Network-Traffic-Wireshark-)
 
