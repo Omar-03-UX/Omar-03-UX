@@ -13,7 +13,6 @@
 - [Static Route Palo Alto ](https://github.com/Omar-03-UX/-Static-route-Palo-Alto)
 - [OSPF Palo Alto ](https://github.com/Omar-03-UX/OSPF-Palo-Alto)
 - [Splunk](https://github.com/Omar-03-UX/Splunk )
-- [Wireshark](https://github.com/Omar-03-UX/Network-Traffic-Wireshark-)
 
 
 <h2>👨‍💻CyberSecurity Projects:</h2>
